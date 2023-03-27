@@ -1,3 +1,5 @@
+# Counter App
+
 This is a counter-app component which is created using React a javascript library.
 This in itself cannot be considerd a project as it is just a component which
 can be used as a counter in an E-commerce website.
