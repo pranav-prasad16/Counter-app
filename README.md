@@ -1,3 +1,14 @@
+This is a counter-app component which is created using React a javascript library.
+This in itself cannot be considerd a project as it is just a component which
+can be used as a counter in an E-commerce website.
+
+The technologies used in this are : React Js, Bootstrap
+
+Now below is the process to set a React App and it can be used for creating your own React
+app and the different operations and features you can use in it.
+
+Thank You, Have a great day
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
